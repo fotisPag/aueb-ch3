@@ -76,7 +76,7 @@ public class BooleanDemo {
         * Εάν ένα μέρος των λογικών τελεστών  && δεν είναι αληθές, τότε και η υπόλοιπη παράσταση είναι false
         * */
         if (((num % 100) == 0) && ! ((num % 400) == 0)) {
-            System.out.println("Ο αριθμός")
+            System.out.println("Ο αριθμός");
         }
 
 
